@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+<div align="center">
+🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [YousSite](https://imy1l.github.io/YousSite/)
+👨‍💻 All of my projects are available at [YousSite](https://imy1l.github.io/YousSite/)
 
-- 📫 How to reach me **yousef.mohammed77@outlook.com**
+📫 How to reach me **yousef.mohammed77@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
-
+📄 Know about my experiences [Resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
+</div>
+  
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=imy1l&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imy1l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
