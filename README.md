@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [YousSite](https://imy1l.github.io/YousSite/)
 
-- 📄 View my [Resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
+- 📄 View my [resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
 
 - 📫 How to reach me **yousef.mohammed77@outlook.com**
 
