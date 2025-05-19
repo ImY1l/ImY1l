@@ -2,21 +2,16 @@
 <h3 align="center">A passionate Computer Science student</h3>
 
 <div align="center">
-
 🌱 I’m currently learning <strong>Blockchain</strong>  
 <br><br>
-
 👨‍💻 All of my projects are available at  
 <a href="https://imy1l.github.io/YousSite/">YousSite</a>  
 <br><br>
-
 📫 How to reach me  
 <strong>yousef.mohammed77@outlook.com</strong>  
 <br><br>
-
 📄 Know about my experiences  
 <a href="https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol">Resume</a>
-
 </div>
 
   
