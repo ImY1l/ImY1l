@@ -25,6 +25,3 @@
     src="https://github-readme-stats.vercel.app/api?username=imy1l&show_icons=true&locale=en&theme=github_dark" 
     alt="imy1l" />
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imy1l&show_icons=true&locale=en" alt="imy1l" /></p>
