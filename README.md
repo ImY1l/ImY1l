@@ -10,8 +10,8 @@
 - 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imy1l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=imy1l&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imy1l&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imy1l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 
 # 🌐 Socials:
