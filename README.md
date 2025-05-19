@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://imy1l.github.io/YousSite/](https://imy1l.github.io/YousSite/)
+- 👨‍💻 All of my projects are available at [https://imy1l.github.io/YousSite/](YousSite)
 
 - 📫 How to reach me **yousef.mohammed77@outlook.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
+- 📄 Know about my experiences [https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol](https://bit.ly/3F20ymK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
