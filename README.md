@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yousef.mohammed77@outlook.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol](https://bit.ly/3F20ymK)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
