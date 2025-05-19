@@ -30,3 +30,6 @@
     src="https://github-readme-stats.vercel.app/api?username=imy1l&show_icons=true&locale=en&theme=github_dark" 
     alt="imy1l" />
 </p>
+
+
+[![](https://visitcount.itsvg.in/api?id=imy1l&icon=0&color=0)](https://visitcount.itsvg.in)
