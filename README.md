@@ -7,7 +7,7 @@
 
 - 📄 View my [resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
 
-- 📫 How to reach me **yousef.mohammed77@outlook.com**
+- 📫 Reach me at **yousef.mohammed77@outlook.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imy1l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-mohammed-a66999360) 
