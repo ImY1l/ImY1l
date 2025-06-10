@@ -2,11 +2,8 @@
 <h3 align="center">A passionate Computer Science student</h3>
 
 - 🌱 I’m currently learning **Blockchain**
-
 - 👨‍💻 All of my projects are available at [YousSite](https://imy1l.github.io/YousSite/)
-
 - 📄 View my [resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
-
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
 
 ## 🌐 Socials
