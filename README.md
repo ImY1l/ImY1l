@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <h3 align="center">A passionate Computer Science student</h3>
-
+[![Mohammed Yousef profile views](https://u8views.com/api/v1/github/profiles/180687256/views/day-week-month-total-count.svg)](https://u8views.com/github/ImY1l)
 - 🌱 I’m currently learning **Blockchain**
 - 👨‍💻 All of my projects are available at [YousSite](https://imy1l.github.io/YousSite/)
 - 📄 View my [resume](https://1drv.ms/b/s!AoIb2Iggwqcu6mqMfbBCMX_XF8Uu?e=DGgKol)
