@@ -3,13 +3,17 @@
 
 ---
 
-<p align="right">
-  <img src="images/screenshot.jpeg" alt="Screenshot" width="400"/>
-</p>
-
-- 🌱 I’m currently learning **Blockchain**
-- 👨‍💻 Check out my portfolio [YousSite](https://imy1l.github.io/YousSite/)
-- 📫 Reach me at **yousef.mohammed77@outlook.com**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3>My Project Title</h3>
+    <p>
+      - 🌱 I’m currently learning **Blockchain**
+      - 👨‍💻 Check out my portfolio [YousSite](https://imy1l.github.io/YousSite/)
+      - 📫 Reach me at **yousef.mohammed77@outlook.com**
+    </p>
+  </div>
+  <img src="images/screenshot.jpeg" alt="Screenshot" width="300" style="margin-left: 20px;">
+</div>
 
 ## 🌐 Socials
 <p align="left">
