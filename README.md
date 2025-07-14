@@ -3,17 +3,22 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h3>My Project Title</h3>
-    <ul>
-      <li>🌱 I’m currently learning <strong>Blockchain</strong></li>
-      <li>👨‍💻 Check out my portfolio <a href="https://imy1l.github.io/YousSite/">YousSite</a></li>
-      <li>📫 Reach me at <strong>yousef.mohammed77@outlook.com</strong></li>
-    </ul>
-  </div>
-  <img src="images/screenshot.jpeg" alt="Screenshot" width="300" style="margin-left: 20px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>My Project Title</h3>
+      <ul>
+        <li>🌱 I’m currently learning <strong>Blockchain</strong></li>
+        <li>👨‍💻 Check out my portfolio <a href="https://imy1l.github.io/YousSite/">YousSite</a></li>
+        <li>📫 Reach me at <strong>yousef.mohammed77@outlook.com</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="images/screenshot.jpeg" alt="Screenshot" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 🌐 Socials
 <p align="left">
