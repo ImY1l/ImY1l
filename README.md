@@ -3,19 +3,9 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="max-width: 60%;">
-    <h3>My Project Title</h3>
-    <p>
-      🌱 I’m currently learning <strong>Blockchain</strong><br>
-      👨‍💻 Check out my portfolio <a href="https://imy1l.github.io/YousSite/">YousSite</a><br>
-      📫 Reach me at <strong>yousef.mohammed77@outlook.com</strong>
-    </p>
-  </div>
-  <img src="images/screenshot.jpeg" alt="Screenshot" width="250" style="margin-left: 20px;">
-</div>
-
-
+- 🌱 I’m currently learning **Blockchain**
+- 👨‍💻 Check out my portfolio [YousSite](https://imy1l.github.io/YousSite/)
+- 📫 Reach me at **yousef.mohammed77@outlook.com**
 
 ## 🌐 Socials
 <p align="left">
