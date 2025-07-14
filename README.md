@@ -6,7 +6,6 @@
   Hi 👋, I'm Yousef </h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-## 🌱 About Me
 - 🔭 I’m currently learning **Blockchain, JavaScript, Advanced AI**
 - 👨‍💻 Check out my portfolio [YousSite](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
