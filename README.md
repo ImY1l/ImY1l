@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/header-image1.jpeg" alt="Header Image" width="100%" />
+  <img src="images/ygif.gif" alt="Header gif" width="100%" />
 </p>
 
-<h1 align="center" style="color:#29b6f6; font-weight:bold;">
+<h1 align="center" style="font-weight:bold;">
   Hi 👋, I'm Yousef </h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
