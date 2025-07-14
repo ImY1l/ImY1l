@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
+---
+
+<p align="right">
+  <img src="images/screenshot.jpeg" alt="Screenshot" width="400"/>
+</p>
+
 - 🌱 I’m currently learning **Blockchain**
 - 👨‍💻 Check out my portfolio [YousSite](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
