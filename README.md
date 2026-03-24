@@ -4,9 +4,9 @@
 
 <h1 align="center" style="font-weight:bold;">
   Hi 👋, I'm Yousef </h1>
-<h3 align="center">A passionate Computer Science student</h3>
+<h3 align="center">A Computer Science student</h3>
 
-- 🔭 I’m currently learning **Angular, NextJS**
+- 🔭 I’m currently focusing on **MongoDB, and Python**
 - 👨‍💻 Check out my portfolio [YousSite](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
 
