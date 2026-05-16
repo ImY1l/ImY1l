@@ -6,7 +6,7 @@
   Hi 👋, I'm Yousef </h1>
 <h3 align="center">A Computer Science student</h3>
 
-- 🔭 Currently interested in **Playwright and MCPs**
+- 🔭 Currently focusing on **Playwright and MCPs**
 - 👨‍💻 Check out my portfolio [YousSite](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
 
