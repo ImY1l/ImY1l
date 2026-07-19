@@ -42,8 +42,8 @@
 
 <h2 align="center"> GitHub Stats </h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ImY1l&theme=shadow_red&hide_border=false" alt="GitHub Streak Stats" height="195px" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImY1l&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" height="195px" />
+  <img src="https://streak-stats.demolab.com/?user=ImY1l&theme=shadow_red&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImY1l&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
   <br/><br/>
   <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
   <br/><br/>
