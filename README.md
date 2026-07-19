@@ -38,4 +38,10 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=imy1l&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+<h2 align="center"> 📊 GitHub Stats </h2>
+<p align="center">
+![](https://streak-stats.demolab.com/?user=ImY1l&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ImY1l&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</p>
