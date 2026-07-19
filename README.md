@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=7e212a&height=220&section=header&text=Hi,%20I'm%20Yousef.&fontSize=50&fontColor=ffffff&stroke=7e212a&animation=fadeIn&fontAlignY=43&desc=Software%20Engineer&descAlignY=62" width="100%"/>
 </div>
 
-<h3 align="center">Recent Computer Science (Software Engineering) Graduate</h3>
-
-<p align="center">
-<br/><br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
-<br/><br/>
-</p>
-
 - 🔭 Currently focusing on **Playwright** and **MCPs**
 - 👨‍💻 Check out my portfolio [**YousSite**](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
