@@ -2,15 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=7e212a&height=220&section=header&text=Hi,%20I'm%20Yousef.&fontSize=50&fontColor=ffffff&stroke=7e212a&animation=fadeIn&fontAlignY=43&desc=Software%20Engineer&descAlignY=62" width="100%"/>
 </div>
 
----
-
 <h3 align="center">Recent Computer Science (Software Engineering) Graduate</h3>
 
 - 🔭 Currently focusing on **Playwright** and **MCPs**
 - 👨‍💻 Check out my portfolio [**YousSite**](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
 
----
+<br/><br/>
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
+<br/><br/>
 
 <h2 align="center"> Tech Stack </h2>
 <p align="center">
@@ -40,14 +40,16 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+<br/><br/>
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
+<br/><br/>
 
 <h2 align="center"> GitHub Stats </h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ImY1l&theme=shadow_red&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImY1l&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
   <br/><br/>
-  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
   <br/><br/>
   <a href="https://linkedin.com/in/yousef-mohammed-a66999360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7e212a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://www.buymeacoffee.com/imy1l" target="_blank"><img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-7e212a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=ImY1l&style=for-the-badge&color=24292e" alt="Views"/>
 </p>
