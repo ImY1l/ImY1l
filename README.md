@@ -4,6 +4,12 @@
 
 <h3 align="center">Recent Computer Science (Software Engineering) Graduate</h3>
 
+<p align="center">
+<br/><br/>
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
+<br/><br/>
+</p>
+
 - 🔭 Currently focusing on **Playwright** and **MCPs**
 - 👨‍💻 Check out my portfolio [**YousSite**](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
@@ -55,5 +61,5 @@
   <br/><br/>
   <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
   <br/><br/>
-  <a href="https://linkedin.com/in/yousef-mohammed-a66999360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7e212a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://www.buymeacoffee.com/imy1l" target="_blank"><img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-7e212a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=ImY1l&style=for-the-badge&color=24292e" alt="Views"/>
+  <a href="https://www.buymeacoffee.com/imy1l" target="_blank"><img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-7e212a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=ImY1l&style=for-the-badge&color=7e212a" alt="Views"/>
 </p>
