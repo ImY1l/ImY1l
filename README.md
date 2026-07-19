@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=7e212a&height=220&section=header&text=Hi,%20I'm%20Yousef.&fontSize=50&fontColor=ffffff&stroke=7e212a&animation=fadeIn&fontAlignY=43&desc=Software%20Engineer&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=7e212a&height=220&section=header&text=Hi,%20I'm%20Yousef.&fontSize=50&fontColor=ffffff&stroke=7e212a&strokeWidth=4&animation=fadeIn&fontAlignY=43&desc=Software%20Engineer&descAlignY=62" width="100%"/>
 </div>
 
 - 🔭 Currently focusing on **Playwright** and **MCPs**
