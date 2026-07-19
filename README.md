@@ -44,5 +44,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ImY1l&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImY1l&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImY1l&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
