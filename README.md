@@ -8,9 +8,11 @@
 - 👨‍💻 Check out my portfolio [**YousSite**](https://imy1l.github.io/YousSite/)
 - 📫 Reach me at **yousef.mohammed77@outlook.com**
 
+<p align="center">
 <br/><br/>
 <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
 <br/><br/>
+</p>
 
 <h2 align="center"> Tech Stack </h2>
 <p align="center">
@@ -40,9 +42,11 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+<p align="center">
 <br/><br/>
 <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7e212a&height=2"/>
 <br/><br/>
+</p>
 
 <h2 align="center"> GitHub Stats </h2>
 <p align="center">
