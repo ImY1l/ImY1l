@@ -7,8 +7,8 @@
 <h3 align="center">Recent Computer Science (Software Engineering) Graduate</h3>
 
 - 🔭 Currently focusing on **Playwright** and **MCPs**
-- 👨‍💻 Check out my portfolio <a href="https://imy1l.github.io/YousSite/" target="_blank" style="color: #7e212a; font-weight: bold; text-decoration: none;">YousSite</a>
-- 📫 Reach me at <a href="mailto:yousef.mohammed77@outlook.com" style="color: #7e212a; font-weight: bold; text-decoration: none;">yousef.mohammed77@outlook.com</a>
+- 👨‍💻 Check out my portfolio [**YousSite**](https://imy1l.github.io/YousSite/)
+- 📫 Reach me at **yousef.mohammed77@outlook.com**
 
 ---
 
